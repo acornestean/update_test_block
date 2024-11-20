@@ -7,6 +7,14 @@
           "update_link": "https://acornestean.github.io/update_test_block/addons_canary-3.0.xpi"
         }
       ]
+    },
+    "{e22ce8d0-474e-42b1-a8d8-5ba6289e34ac}": {
+      "updates": [
+        {
+          "version": "2.0",
+          "update_link": "https://acornestean.github.io/update_test_block/unlisted_v1res_v2unres_v2-2.0.xpi"
+        }
+      ]
     }
   }
 }
