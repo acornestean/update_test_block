@@ -15,6 +15,14 @@
           "update_link": "https://acornestean.github.io/update_test_block/unlisted_v1res_v2unres_v2-2.0.xpi"
         }
       ]
+    },
+    "{a4fe93ba-a89c-42ab-a47c-092294073b6c}": {
+      "updates": [
+        {
+          "version": "2.0",
+          "update_link": "https://acornestean.github.io/update_test_block/listed_v1unres_v2res-2.0.xpi"
+        }
+      ]
     }
   }
 }
