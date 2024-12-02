@@ -8,19 +8,35 @@
         }
       ]
     },
-    "{e22ce8d0-474e-42b1-a8d8-5ba6289e34ac}": {
+    "{290c9e00-0a95-4bad-b95c-69213ec96426}": {
       "updates": [
         {
           "version": "2.0",
-          "update_link": "https://acornestean.github.io/update_test_block/unlisted_v1res_v2unres_v2-2.0.xpi"
+          "update_link": "https://acornestean.github.io/update_test_block/listed_v1res_v2unres-2.0.xpi"
         }
       ]
     },
-    "{a4fe93ba-a89c-42ab-a47c-092294073b6c}": {
+    "{db529259-aebf-4c7b-acd8-ba839103cab4}": {
       "updates": [
         {
           "version": "2.0",
-          "update_link": "https://acornestean.github.io/update_test_block/listed_v1unres_v2res-2.0.xpi"
+          "update_link": "https://acornestean.github.io/update_test_block/listed_v1unres_v2res_281124-2.0.xpi"
+        }
+      ]
+    },
+    "{80e36651-67a9-435d-92cc-c958eda35e5f}": {
+      "updates": [
+        {
+          "version": "2.0",
+          "update_link": "https://acornestean.github.io/update_test_block/unlisted_v1res_v2unres-2.0.xpi"
+        }
+      ]
+    },
+    "{cccb000a-90bc-41c9-a60f-939b7c4f9089}": {
+      "updates": [
+        {
+          "version": "2.0",
+          "update_link": "https://acornestean.github.io/update_test_block/unlisted_v1unres_v2res-2.0.xpi"
         }
       ]
     }
