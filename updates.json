@@ -39,6 +39,14 @@
           "update_link": "https://acornestean.github.io/update_test_block/unlisted_v1unres_v2res-2.0.xpi"
         }
       ]
+    },
+    "test@test.com": {
+      "updates": [
+        {
+          "version": "2.0",
+          "update_link": "https://acornestean.github.io/update_test_block/2_no_host_permissions_2.xpi"
+        }
+      ]
     }
   }
 }
