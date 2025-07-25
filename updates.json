@@ -79,6 +79,14 @@
           "update_link": "https://acornestean.github.io/update_test_block/none05.xpi"
         }
       ]
+    },
+    "@more_perms": {
+      "updates": [
+        {
+          "version": "2.0.0",
+          "update_link": "https://acornestean.github.io/update_test_block/none06.xpi"
+        }
+      ]
     }
   }
 }
