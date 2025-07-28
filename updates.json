@@ -119,6 +119,22 @@
           "update_link": "https://acornestean.github.io/update_test_block/new-req_new-data-col_consent-false_update.xpi"
         }
       ]
+    },
+     "@new-req_new-hp_new-data-col_consent-true": {
+      "updates": [
+        {
+          "version": "2.0.0",
+          "update_link": "https://acornestean.github.io/update_test_block/new-req_new-hp_new-data-col_consent-true_update.xpi"
+        }
+      ]
+    },
+     "@new-req_new-hp_new-data-col_consent-false": {
+      "updates": [
+        {
+          "version": "2.0.0",
+          "update_link": "https://acornestean.github.io/update_test_block/new-req_new-hp_new-data-col_consent-false_update.xpi"
+        }
+      ]
     }
   }
 }
