@@ -151,6 +151,22 @@
           "update_link": "https://acornestean.github.io/update_test_block/none_new-data-col_consent-false_update.xpi"
         }
       ]
+    },
+    "@no_none_true": {
+      "updates": [
+        {
+          "version": "2.0.0",
+          "update_link": "https://acornestean.github.io/update_test_block/no_none_true_update.xpi"
+        }
+      ]
+    },
+    "@no_none_false": {
+      "updates": [
+        {
+          "version": "2.0.0",
+          "update_link": "https://acornestean.github.io/update_test_block/no_none_false_update.xpi"
+        }
+      ]
     }
   }
 }
